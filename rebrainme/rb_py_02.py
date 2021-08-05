@@ -42,7 +42,6 @@ print(int(z1[7:9])+int(z1[10:12])+int(z1[13:15]))
 z2 = 'May 24 14:03:01 ideapad colord[844]: failed to get session [pid 8279]: Нет доступных данных'
 z4 = z2.split(' ')
 print(z4)
-#print(z4[4].replace(':', '')
 z5 = z2.split(':')
 print(z5)
 
